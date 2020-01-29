@@ -9,12 +9,20 @@
 三、所有捐款将分成两部分：一部分将买成口罩捐给武汉的医院，一部分将买成澳洲消防救灾物质捐给火灾地区灾民。
 
 在这灾情肆虐的时刻，是我们尽绵薄之力回馈社会的时机了！大家行动起来吧！
-         澳大利亚浙江大学校
-友会 
+
+澳大利亚浙江大学校友会 
+
 2020.1.24鼠年除夕
+
 附：
+
 捐款账号：
+
 ZheJiang University Alumni Association Australia Incorporated
+
  BSB:  012-266
+ 
  Account No.: 2118-75288
+ 
 （ Please quote the your name when making the transfer. 为方便统计，请汇款时注明捐款人的名字。）
+
