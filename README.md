@@ -1,5 +1,7 @@
 # 2019-nCoV-AU
 
+[全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia)
+
 ## 病例及分布
 
 
