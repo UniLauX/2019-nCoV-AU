@@ -50,7 +50,7 @@
 
 
 ## 重大新闻
-[中国女足在澳洲被隔离14天]（https://www.sohu.com/na/369572013_509307?scm=1002.45005a.15d015e01a3.PC_NEW_ARTICLE_REC&spm=smpc.content%2Fnew.fd-d.10.1575244800026oXoZw5N）
+[中国女足在澳洲被隔离14天](https://www.sohu.com/na/369572013_509307?scm=1002.45005a.15d015e01a3.PC_NEW_ARTICLE_REC&spm=smpc.content%2Fnew.fd-d.10.1575244800026oXoZw5N)
 
 
 
