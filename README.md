@@ -1,4 +1,4 @@
-# 2019-nCoV-AU
+# 2019-nCoV-AU(澳大利亚-武汉新型肺炎疫情动态)
 
 [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia) </br>
 [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
