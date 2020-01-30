@@ -46,6 +46,8 @@
 ## 口罩购买及联系电话
 
 #### 1. 网上购买 
+[网购按地区查询]（https://www.google.com/search?q=australia+mask+selling&sxsrf=ACYBGNT-1qu9-5nmxcPjRET-4QLDVc6ctQ:1580428583168&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjMoquiw6znAhXtxjgGHQeNBbAQ_AUoAnoECAwQBA&biw=1875&bih=953）
+
 [Hicraftsafety](https://www.hicraftsafety.com.au/3m-p2-vflex-particulate-respirator-standard-size)
 
 #### 2. 实体店联系电话
