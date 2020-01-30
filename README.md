@@ -1,7 +1,9 @@
 # 2019-nCoV-AU(澳大利亚-武汉新型肺炎疫情动态)
 
+## 其他链接
 [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia) </br>
 [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
+
 ## 近期返澳的同学的建议及症状处置提示
 
 近期抵澳同学请自觉在家**隔离14天**，如果觉得不舒服**请不要去家庭诊所** **也不要去医院** 请直接联系 communicable disease control branch 会有专门的医生来为您检查（免费）。
