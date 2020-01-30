@@ -39,10 +39,10 @@
 
 ## 口罩购买及联系电话
 
-### 网上购买 
+### 1. 网上购买 
 [Hicraftsafety](https://www.hicraftsafety.com.au/3m-p2-vflex-particulate-respirator-standard-size)
 
-### 实体店联系电话
+### 2. 实体店联系电话
 
 
 ## 诊所及地址
