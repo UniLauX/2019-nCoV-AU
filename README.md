@@ -22,6 +22,7 @@
 [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
 [澳大利亚卫生部官网](https://www.health.gov.au/)
 [澳大利亚卫生部确诊病例实时更新页面](https://www.health.gov.au/news/coronavirus-update-at-a-glance)
+[国家留学基金委：关于支持新型肺炎疫情防控有关措施的通知]（https://www.csc.edu.cn/news/gonggao/1801）
 
 ---------------------------------------------
 
