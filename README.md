@@ -15,13 +15,14 @@
 |北领地（NT）   |达尔文（Sydney） |0 | 0 |0|
 |澳大利亚首都领地（ACT）  |堪培拉（Canberra）|0 | 0 |0|
 
+[澳大利亚卫生部确诊病例实时更新页面](https://www.health.gov.au/news/coronavirus-update-at-a-glance)</br>
+
 -------------------------------------------------
 
 ## 相关链接
 [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia) </br>
 [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
 [澳大利亚卫生部官网](https://www.health.gov.au/)</br>
-[澳大利亚卫生部确诊病例实时更新页面](https://www.health.gov.au/news/coronavirus-update-at-a-glance)</br>
 [国家留学基金委：关于支持新型肺炎疫情防控有关措施的通知](https://www.csc.edu.cn/news/gonggao/1801)
 
 ---------------------------------------------
