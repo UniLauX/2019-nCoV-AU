@@ -79,5 +79,5 @@
 [澳大利亚浙大校友会](https://github.com/UniLauX/2019-nCoV-AU/blob/master/donation.md)
 
 ---------------------------------------------------------
-## 志愿者
+## 信息交流群
 ![微信信息交流群](wechat_group1.png)
