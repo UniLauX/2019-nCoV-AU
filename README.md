@@ -4,6 +4,7 @@
 [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia) </br>
 [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
 [澳大利亚卫生部官网](https://www.health.gov.au/)
+[澳大利亚卫生部确诊病例实时更新页面](https://www.health.gov.au/news/coronavirus-update-at-a-glance)
 
 ---------------------------------------------
 
@@ -41,7 +42,7 @@
 |北领地（NT）   |达尔文（Sydney） |0 | 0 |0|
 |澳大利亚首都领地（ACT）  |堪培拉（Canberra）|0 | 0 |0|
 
-
+![Confirmed Cases](aus.png)
 ----------------------------------------------------
 ## 口罩购买及联系电话
 
@@ -51,7 +52,7 @@
 [Hicraftsafety](https://www.hicraftsafety.com.au/3m-p2-vflex-particulate-respirator-standard-size)
 
 #### 2. 实体店购买
-请去所在地附近的 chemist warehouse 和 national pharmacy 购买，具体存货看具体商店
+请去所在地附近的chemist 和 national phamcy购买 
 
 -------------------------------------------------------
 ## 诊所及地址
