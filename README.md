@@ -80,4 +80,4 @@
 
 ---------------------------------------------------------
 ## 志愿者
-！[微信信息交流群]（https://github.com/UniLauX/2019-nCoV-AU/blob/master/WeChat%20Image_2019-nConv.png）
+！[微信信息交流群]（WeChat%20Image_2019-nConv.png）
