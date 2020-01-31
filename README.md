@@ -61,6 +61,8 @@
 #### 2. 实体店购买
 请去所在地附近的chemist 和 national pharmacy购买 
 
+口罩预定（阿德莱德）：Hungry jack 旁边的TerryWhite, 联系电话61-8232 3123
+
 -------------------------------------------------------
 ## 诊所及地址
 [各州诊所汇总](https://www.racgp.org.au/coronavirus)
