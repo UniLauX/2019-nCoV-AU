@@ -70,7 +70,6 @@
 ## 重大新闻
 [澳大利亚专家致力于在16周内研制出新型冠状病毒的疫苗](https://www.abc.net.au/news/2020-01-31/australian-made-coronavirus-copy-reaches-high-security-csiro-lab/11915092?from=timeline)</br>
 [WHO宣布：武汉冠状病毒疫情为国际关注的突发公共卫生事件](https://nzlifenz.com/oversea/56065) </br>
-
 [中国女足在澳洲被隔离14天](https://www.sohu.com/na/369572013_509307?scm=1002.45005a.15d015e01a3.PC_NEW_ARTICLE_REC&spm=smpc.content%2Fnew.fd-d.10.1575244800026oXoZw5N) </br>
 
 
