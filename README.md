@@ -51,7 +51,7 @@
 [Hicraftsafety](https://www.hicraftsafety.com.au/3m-p2-vflex-particulate-respirator-standard-size)
 
 #### 2. 实体店购买
-请去所在地附近的chemist 和 national phamcy购买 
+请去所在地附近的 chemist warehouse 和 national pharmacy 购买，具体存货看具体商店
 
 -------------------------------------------------------
 ## 诊所及地址
