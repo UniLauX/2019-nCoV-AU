@@ -73,6 +73,8 @@
 ## 重大新闻(澳洲)
 ### 2020.02.01
 
+[Australia to deny entry to travellers from mainland China unless they’re Australian citizens: PM](https://www.sbs.com.au/news/australia-to-deny-entry-to-travellers-from-mainland-china-unless-they-re-australian-citizens-pm) </br>
+
 [Fourth coronavirus case confirmed in Victoria, taking the total in Australia to 10](https://www.abc.net.au/news/2020-02-01/fourth-coronavirus-case-confirmed-in-victoria/11920754) </br>
 
 [Coronavirus: Qantas suspends flights as virologist warns it is ‘deadlier than it looks’](https://www.theaustralian.com.au/science/coronavirus-deadlier-than-it-looks-virologist-warns/news-story/3ff079f3358984b5cce7c56444538369)
