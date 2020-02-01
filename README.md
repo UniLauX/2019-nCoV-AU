@@ -70,7 +70,7 @@
 
 
 ---------------------------------------------------------
-## 重大新闻
+## 重大新闻(澳洲)
 ### 2020.01.31
 
 [澳大利亚专家致力于在16周内研制出新型冠状病毒的疫苗](https://www.abc.net.au/news/2020-01-31/australian-made-coronavirus-copy-reaches-high-security-csiro-lab/11915092?from=timeline)</br>
@@ -83,6 +83,16 @@
 ### 2020.01.29
 
 [澳洲成功培養出新型冠狀病毒](https://www.acd.com.au/todays-headlines/%e6%be%b3%e6%b4%b2%e6%88%90%e5%8a%9f%e5%9f%b9%e9%a4%8a%e5%87%ba%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8b%80%e7%97%85%e6%af%92/)
+
+## 世界新闻
+
+### 2020.02.01
+[美国全面禁止从中国来的人入境](https://www.washingtonpost.com/world/coronavirus-china-live-updates/2020/01/31/eeac61b6-442b-11ea-b503-2b077c436617_story.html) </br>
+[(中文版)美国全面禁止从中国来的人入境] (https://mp.weixin.qq.com/s/23DpBjCP1z5E_iGuMccYnA)</br>
+
+### 2020.01.31
+
+[意大利宣布进入国家紧急状态 将持续六个月](https://news.ifeng.com/c/7tgtPbQcqyO) </br>
 
 --------------------------------------------------------
 ## 募捐
