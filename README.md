@@ -5,12 +5,12 @@
 
 | 地区 |  首府| 确诊 | 死亡 |治愈 |
 | ------------- |:-------------:| -----:|------------|--------------|
-|澳洲   |全国 | 10 |0| 2|
+|澳洲   |全国 | 12 |0| 2|
 |新南威尔士州（NSW） |悉尼（Sydney） | 4 |0| 0|
 |维多利亚州（VIC）   |墨尔本(Melbourne) | 4 | 0 |0|
 |昆士兰州（QLD）     | 布里斯班（Brisbane）|2 | 0 |0|
 |西澳大利亚州（WA）    |珀斯（Perth）| 0 | 0 |0|
-|南澳大利亚州（SA）    |阿德莱德（Adelaide）| 0 | 0 |0|
+|南澳大利亚州（SA）    |阿德莱德（Adelaide）| 2 | 0 |0|
 |塔斯马尼亚州（TAS）   |霍巴特（Hobart） |0 | 0 |0|
 |北领地（NT）   |达尔文（Sydney） |0 | 0 |0|
 |澳大利亚首都领地（ACT）  |堪培拉（Canberra）|0 | 0 |0|
@@ -72,6 +72,8 @@
 ---------------------------------------------------------
 ## 重大新闻(澳洲)
 ### 2020.02.01
+
+[Australia coronavirus update: Two cases confirmed in South Australia](https://7news.com.au/news/sa/australia-coronavirus-update-two-cases-confirmed-in-south-australia-c-676115) </br>
 
 [Australia to deny entry to travellers from mainland China unless they’re Australian citizens: PM](https://www.sbs.com.au/news/australia-to-deny-entry-to-travellers-from-mainland-china-unless-they-re-australian-citizens-pm) </br>
 
