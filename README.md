@@ -88,7 +88,7 @@
 
 ### 2020.02.01
 [美国全面禁止从中国来的人入境](https://www.washingtonpost.com/world/coronavirus-china-live-updates/2020/01/31/eeac61b6-442b-11ea-b503-2b077c436617_story.html) </br>
-[(中文版)美国全面禁止从中国来的人入境] (https://mp.weixin.qq.com/s/23DpBjCP1z5E_iGuMccYnA)</br>
+[(中文版)美国全面禁止从中国来的人入境](https://mp.weixin.qq.com/s/23DpBjCP1z5E_iGuMccYnA)</br>
 
 ### 2020.01.31
 
