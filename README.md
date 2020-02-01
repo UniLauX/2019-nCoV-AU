@@ -5,9 +5,9 @@
 
 | 地区 |  首府| 确诊 | 死亡 |治愈 |
 | ------------- |:-------------:| -----:|------------|--------------|
-|澳洲   |全国 | 9 |0| 2|
+|澳洲   |全国 | 10 |0| 2|
 |新南威尔士州（NSW） |悉尼（Sydney） | 4 |0| 0|
-|维多利亚州（VIC）   |墨尔本(Melbourne) | 3 | 0 |0|
+|维多利亚州（VIC）   |墨尔本(Melbourne) | 4 | 0 |0|
 |昆士兰州（QLD）     | 布里斯班（Brisbane）|2 | 0 |0|
 |西澳大利亚州（WA）    |珀斯（Perth）| 0 | 0 |0|
 |南澳大利亚州（SA）    |阿德莱德（Adelaide）| 0 | 0 |0|
@@ -71,6 +71,12 @@
 
 ---------------------------------------------------------
 ## 重大新闻(澳洲)
+### 2020.02.01
+
+[Fourth coronavirus case confirmed in Victoria, taking the total in Australia to 10](https://www.abc.net.au/news/2020-02-01/fourth-coronavirus-case-confirmed-in-victoria/11920754) </br>
+
+[Coronavirus: Qantas suspends flights as virologist warns it is ‘deadlier than it looks’](https://www.theaustralian.com.au/science/coronavirus-deadlier-than-it-looks-virologist-warns/news-story/3ff079f3358984b5cce7c56444538369)
+
 ### 2020.01.31
 
 [澳大利亚专家致力于在16周内研制出新型冠状病毒的疫苗](https://www.abc.net.au/news/2020-01-31/australian-made-coronavirus-copy-reaches-high-security-csiro-lab/11915092?from=timeline)</br>
@@ -98,7 +104,6 @@
 ## 募捐
 
 [澳大利亚浙大校友会](https://github.com/UniLauX/2019-nCoV-AU/blob/master/donation.md)
-
 
 ---------------------------------------------------------
 ## 信息交流群
