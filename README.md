@@ -1,6 +1,6 @@
 # 2019-nCoV-AU(澳大利亚-武汉新型肺炎疫情动态)
 
-## 病例及分布
+## Cases Map - 病例及分布
 ![Confirmed Cases](aus.png)
 
 | 地区 |  首府| 确诊 | 死亡 |治愈 |
@@ -19,14 +19,18 @@
 
 -------------------------------------------------
 
-## 常见症状
+## Symptom - 常见症状
 ![常见症状](常见症状.png)
 
 
-## 相关航班
+## Transportation and Movement Check - 相关航班及行程
 @南澳： 寻找1月20日南方航空 CZ663 ，以及国泰航空CX177 抵达阿德莱德的旅客。南澳确诊病例据说于1月20日抵达阿德莱德，请同机旅客尽快上报。
 
-## 相关链接
+Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/coronavirus-couples-movements-to-be-tracked-by-phone-sa-health-c-680459):
+
+![SA Cases movement](SA_case_movement.png)
+
+## Related Links - 相关链接
 [全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia) </br>
 [武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
 [澳大利亚卫生部官网](https://www.health.gov.au/)</br>
