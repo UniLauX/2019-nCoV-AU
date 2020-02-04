@@ -124,6 +124,6 @@
 1.（中国）微医义诊 </br>
 ![微医义诊](微医义诊.PNG) </br>
 
-2.南澳 唐人街诊所 （微信客服）： citymedicalcentre
-3.南澳医生(微信号： sachinesedoctors)
+2.南澳 唐人街诊所 （微信客服）： citymedicalcentre </br>
+3.南澳医生(微信号： sachinesedoctors) </br>
 
