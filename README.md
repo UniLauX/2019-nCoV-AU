@@ -126,7 +126,7 @@
 
 2.南澳 (阿德莱德） 
 (1) 唐人街诊所 
-微信客服： citymedicalcentre 
+微信客服: citymedicalcentre
 预约电话： 088120 1888
 地址： 1/80 Grote St, Adelaide 5000
 </br>
