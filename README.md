@@ -125,9 +125,9 @@
 ![微医义诊](微医义诊.PNG) </br>
 
 2.南澳 (阿德莱德） 
-(1) 唐人街诊所 
-微信客服: citymedicalcentre
-预约电话： 088120 1888
+(1) 唐人街诊所 </br> 
+微信客服: citymedicalcentre </br>
+预约电话： 088120 1888 </br>
 地址： 1/80 Grote St, Adelaide 5000
 </br>
 (2)南澳医生(微信号： sachinesedoctors) </br>
