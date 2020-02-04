@@ -70,17 +70,21 @@
 [澳大利亚卫生部官网](https://www.health.gov.au/)</br>
 [国家留学基金委：关于支持新型肺炎疫情防控有关措施的通知](https://www.csc.edu.cn/news/gonggao/1801)
 
+### WeChat Articles
+
+[亲身经历！南澳疑似病例告诉您，如果在南澳怀疑感染，应该怎么办？](https://mp.weixin.qq.com/s/aZoCNJPm0n6rRlKGKrBdgA)
+
 ## Transportation and Movement Check - 相关航班及行程
 
 @南澳： 寻找1月20日南方航空 CZ663 ，以及国泰航空CX177 抵达阿德莱德的旅客。南澳确诊病例据说于1月20日抵达阿德莱德，请同机旅客尽快上报。
 
 Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/coronavirus-couples-movements-to-be-tracked-by-phone-sa-health-c-680459):
 
-![SA Cases movement](SA_case_movement.png)
+<img src="SA_case_movement.png" width="60%">
 
 ## Symptom - 常见症状
 
-![常见症状](常见症状.png)
+<img src="常见症状.png" width="60%">
 
 ---------------------------------------------
 
@@ -120,8 +124,6 @@ Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/c
 -------------------------------------------------------
 ## 诊所及地址
 [各州诊所汇总](https://www.racgp.org.au/coronavirus)
-
-
 
 --------------------------------------------------------
 ## 募捐
