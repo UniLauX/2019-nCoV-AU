@@ -17,71 +17,13 @@
 
 [澳大利亚卫生部确诊病例实时更新页面](https://www.health.gov.au/news/coronavirus-update-at-a-glance)</br>
 
--------------------------------------------------
-
-## Symptom - 常见症状
-![常见症状](常见症状.png)
-
-
-## Transportation and Movement Check - 相关航班及行程
-@南澳： 寻找1月20日南方航空 CZ663 ，以及国泰航空CX177 抵达阿德莱德的旅客。南澳确诊病例据说于1月20日抵达阿德莱德，请同机旅客尽快上报。
-
-Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/coronavirus-couples-movements-to-be-tracked-by-phone-sa-health-c-680459):
-
-![SA Cases movement](SA_case_movement.png)
-
-## Related Links - 相关链接
-[全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia) </br>
-[武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
-[澳大利亚卫生部官网](https://www.health.gov.au/)</br>
-[国家留学基金委：关于支持新型肺炎疫情防控有关措施的通知](https://www.csc.edu.cn/news/gonggao/1801)
-
----------------------------------------------
-
-## 近期返澳的同学的建议及症状处置提示
-
-近期抵澳同学请自觉在家**隔离14天**，如果觉得不舒服**请不要去家庭诊所** **也不要去医院** 请直接联系 communicable disease control branch 会有专门的医生来为您检查（免费）。
-
-**主要症状**：发热，咳嗽，咽喉痛，流涕，呼吸急促，胸闷
-
-如果有发热咳嗽症状请拨打以下热线电话寻求上门服务。
-各州的联系电话：
-
-| 州/地区   | 联系电话|
-| ------------- |:-------------:|
-|ACT| 02 6205 2155|
-|NSW| 1300 066 055|
-|NT|  08 8922 8044|
-|QLD| 13 432 584|
-|SA|  1300 232 272|
-|TAS| 1800 671 738|
-|VIC| 1300 651 160|
-|WA|  08 9222 8588|
-
-
-
-----------------------------------------------------
-## 口罩购买及联系电话
-
-#### 1. 网上购买 
-[网购按地区查询](https://www.google.com/search?q=australia+mask+selling&sxsrf=ACYBGNT-1qu9-5nmxcPjRET-4QLDVc6ctQ:1580428583168&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjMoquiw6znAhXtxjgGHQeNBbAQ_AUoAnoECAwQBA&biw=1875&bih=953)
-
-[Hicraftsafety](https://www.hicraftsafety.com.au/3m-p2-vflex-particulate-respirator-standard-size)
-
-#### 2. 实体店购买
-请去所在地附近的chemist 和 national pharmacy购买 
-
-口罩预定（阿德莱德）：Hungry jack 旁边的TerryWhite, 联系电话61-8232 3123
-
--------------------------------------------------------
-## 诊所及地址
-[各州诊所汇总](https://www.racgp.org.au/coronavirus)
-
-
+[NSW Latest Updates And Helps](https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx) 
 
 ---------------------------------------------------------
+
 ## News (AU) - 重大新闻(澳洲)
-### 2020.02.03
+
+### 2020.02.04
 
 [Queensland confirms third coronavirus case as eight-year-old child from Wuhan, China](https://www.abc.net.au/news/2020-02-04/queensland-confirms-third-coronavirus-case-boy-from-wuhan/11930308) </br>
 
@@ -113,6 +55,7 @@ Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/c
 ## World News - 世界新闻
 
 ### 2020.02.01
+
 [美国全面禁止从中国来的人入境](https://www.washingtonpost.com/world/coronavirus-china-live-updates/2020/01/31/eeac61b6-442b-11ea-b503-2b077c436617_story.html) </br>
 [(中文版)美国全面禁止从中国来的人入境](https://mp.weixin.qq.com/s/23DpBjCP1z5E_iGuMccYnA)</br>
 
@@ -120,13 +63,73 @@ Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/c
 
 [意大利宣布进入国家紧急状态 将持续六个月](https://news.ifeng.com/c/7tgtPbQcqyO) </br>
 
+## Related Links - 相关链接
+
+[全国新型肺炎疫情实时动态](https://3g.dxy.cn/newh5/view/pneumonia) </br>
+[武汉新型冠状病毒防疫信息收集平台](https://github.com/wuhan2020/wuhan2020) </br>
+[澳大利亚卫生部官网](https://www.health.gov.au/)</br>
+[国家留学基金委：关于支持新型肺炎疫情防控有关措施的通知](https://www.csc.edu.cn/news/gonggao/1801)
+
+## Transportation and Movement Check - 相关航班及行程
+
+@南澳： 寻找1月20日南方航空 CZ663 ，以及国泰航空CX177 抵达阿德莱德的旅客。南澳确诊病例据说于1月20日抵达阿德莱德，请同机旅客尽快上报。
+
+Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/coronavirus-couples-movements-to-be-tracked-by-phone-sa-health-c-680459):
+
+![SA Cases movement](SA_case_movement.png)
+
+## Symptom - 常见症状
+
+![常见症状](常见症状.png)
+
+---------------------------------------------
+
+## 近期返澳的同学的建议及症状处置提示
+
+近期抵澳同学请自觉在家**隔离14天**，如果觉得不舒服**请不要去家庭诊所** **也不要去医院** 请直接联系 communicable disease control branch 会有专门的医生来为您检查（免费）。
+
+**主要症状**：发热，咳嗽，咽喉痛，流涕，呼吸急促，胸闷
+
+如果有发热咳嗽症状请拨打以下热线电话寻求上门服务。
+各州的联系电话：
+
+| 州/地区   | 联系电话|
+| ------------- |:-------------:|
+|ACT| 02 6205 2155|
+|NSW| 1300 066 055|
+|NT|  08 8922 8044|
+|QLD| 13 432 584|
+|SA|  1300 232 272|
+|TAS| 1800 671 738|
+|VIC| 1300 651 160|
+|WA|  08 9222 8588|
+
+----------------------------------------------------
+## Mask Purchase - 口罩购买及联系电话
+
+#### 1. 网上购买 
+[网购按地区查询](https://www.google.com/search?q=australia+mask+selling&sxsrf=ACYBGNT-1qu9-5nmxcPjRET-4QLDVc6ctQ:1580428583168&source=lnms&tbm=shop&sa=X&ved=2ahUKEwjMoquiw6znAhXtxjgGHQeNBbAQ_AUoAnoECAwQBA&biw=1875&bih=953)
+
+[Hicraftsafety](https://www.hicraftsafety.com.au/3m-p2-vflex-particulate-respirator-standard-size)
+
+#### 2. 实体店购买
+请去所在地附近的chemist 和 national pharmacy购买 
+
+口罩预定（阿德莱德）：Hungry jack 旁边的TerryWhite, 联系电话61-8232 3123
+
+-------------------------------------------------------
+## 诊所及地址
+[各州诊所汇总](https://www.racgp.org.au/coronavirus)
+
+
+
 --------------------------------------------------------
 ## 募捐
 
 [澳大利亚浙大校友会](https://github.com/UniLauX/2019-nCoV-AU/blob/master/donation.md)
 
 ---------------------------------------------------------
-## 信息交流群
+## WeChat Group - 信息交流群
 ![微信信息交流群](wechat_group0.3.png)
 
 
