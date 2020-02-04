@@ -5,10 +5,10 @@
 
 | 地区 |  首府| 确诊 | 死亡 |治愈 |
 | ------------- |:-------------:| -----:|------------|--------------|
-|澳洲   |全国 | 12 |0| 2|
+|澳洲   |全国 | 13 |0| 2|
 |新南威尔士州（NSW） |悉尼（Sydney） | 4 |0| 0|
 |维多利亚州（VIC）   |墨尔本(Melbourne) | 4 | 0 |0|
-|昆士兰州（QLD）     | 布里斯班（Brisbane）|2 | 0 |0|
+|昆士兰州（QLD）     | 布里斯班（Brisbane）|3 | 0 |0|
 |西澳大利亚州（WA）    |珀斯（Perth）| 0 | 0 |0|
 |南澳大利亚州（SA）    |阿德莱德（Adelaide）| 2 | 0 |0|
 |塔斯马尼亚州（TAS）   |霍巴特（Hobart） |0 | 0 |0|
@@ -76,7 +76,13 @@
 
 
 ---------------------------------------------------------
-## 重大新闻(澳洲)
+## News (AU) - 重大新闻(澳洲)
+### 2020.02.03
+
+[Queensland confirms third coronavirus case as eight-year-old child from Wuhan, China](https://www.abc.net.au/news/2020-02-04/queensland-confirms-third-coronavirus-case-boy-from-wuhan/11930308) </br>
+
+[Coronavirus couple’s movements to be tracked by phone: SA Health](https://7news.com.au/travel/coronavirus/coronavirus-couples-movements-to-be-tracked-by-phone-sa-health-c-680459)
+
 ### 2020.02.01
 
 [Australia coronavirus update: Two cases confirmed in South Australia](https://7news.com.au/news/sa/australia-coronavirus-update-two-cases-confirmed-in-south-australia-c-676115) </br>
@@ -100,7 +106,7 @@
 
 [澳洲成功培養出新型冠狀病毒](https://www.acd.com.au/todays-headlines/%e6%be%b3%e6%b4%b2%e6%88%90%e5%8a%9f%e5%9f%b9%e9%a4%8a%e5%87%ba%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8b%80%e7%97%85%e6%af%92/)
 
-## 世界新闻
+## World News - 世界新闻
 
 ### 2020.02.01
 [美国全面禁止从中国来的人入境](https://www.washingtonpost.com/world/coronavirus-china-live-updates/2020/01/31/eeac61b6-442b-11ea-b503-2b077c436617_story.html) </br>
