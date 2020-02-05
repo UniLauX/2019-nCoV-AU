@@ -130,9 +130,7 @@ Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/c
 
 [澳大利亚浙大校友会](https://github.com/UniLauX/2019-nCoV-AU/blob/master/donation.md)
 
----------------------------------------------------------
-## WeChat Group - 信息交流群
-![微信信息交流群](wechat_group0.3.png)
+
 
 
 ## 在线义诊
@@ -148,8 +146,11 @@ Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/c
 (2)南澳医生(微信号： sachinesedoctors) </br>
 
 
-## 志愿者招募
+## 志愿者招募（请扫码加下面的信息交流群）
 ### 网站开发
 ### 新闻编辑
 ### 口罩信息收集
 ### 义诊信息收集
+---------------------------------------------------------
+## WeChat Group - 信息交流群
+![微信信息交流群](wechat_group0.3.png)
