@@ -23,6 +23,12 @@
 
 ## News (AU) - 重大新闻(澳洲)
 
+### 2020.02.05
+
+[澳大利亚确诊第4例新型冠状病毒感染肺炎病例，系武汉游客](https://www.thepaper.cn/newsDetail_forward_5802953) </br>
+
+[Fourth coronavirus case in Queensland confirmed as 37-year-old man from Wuhan, China](https://www.abc.net.au/news/2020-02-05/queensland-confirms-fourth-coronavirus-case-man-from-wuhan-china/11934390)
+
 ### 2020.02.04
 
 [Queensland confirms third coronavirus case as eight-year-old child from Wuhan, China](https://www.abc.net.au/news/2020-02-04/queensland-confirms-third-coronavirus-case-boy-from-wuhan/11930308) </br>
