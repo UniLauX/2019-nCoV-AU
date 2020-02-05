@@ -146,3 +146,10 @@ Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/c
 地址： 1/80 Grote St, Adelaide 5000
 </br>
 (2)南澳医生(微信号： sachinesedoctors) </br>
+
+
+## 志愿者招募
+### 网站开发
+### 新闻编辑
+### 口罩信息收集
+### 义诊信息收集
