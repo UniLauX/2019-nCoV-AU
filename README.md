@@ -35,6 +35,10 @@
 
 [Coronavirus couple’s movements to be tracked by phone: SA Health](https://7news.com.au/travel/coronavirus/coronavirus-couples-movements-to-be-tracked-by-phone-sa-health-c-680459)
 
+### 2020.02.02
+
+[重要！针对新型冠状病毒，澳洲各大学官方信息更新！](http://m.sohu.com/a/370089494_552416)
+
 ### 2020.02.01
 
 [Australia coronavirus update: Two cases confirmed in South Australia](https://7news.com.au/news/sa/australia-coronavirus-update-two-cases-confirmed-in-south-australia-c-676115) </br>
