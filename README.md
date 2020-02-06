@@ -5,9 +5,9 @@
 
 | 地区 |  首府| 确诊 | 死亡 |治愈 |
 | ------------- |:-------------:| -----:|------------|--------------|
-|澳洲   |全国 | 14 |0| 2|
-|新南威尔士州（NSW） |悉尼（Sydney） | 4 |0| 0|
-|维多利亚州（VIC）   |墨尔本(Melbourne) | 4 | 0 |0|
+|澳洲   |全国 | 15 |0| 3 |
+|新南威尔士州（NSW） |悉尼（Sydney） | 4 |0| 2 |
+|维多利亚州（VIC）   |墨尔本(Melbourne) | 5 | 0 |1|
 |昆士兰州（QLD）     | 布里斯班（Brisbane）|4 | 0 |0|
 |西澳大利亚州（WA）    |珀斯（Perth）| 0 | 0 |0|
 |南澳大利亚州（SA）    |阿德莱德（Adelaide）| 2 | 0 |0|
@@ -22,6 +22,14 @@
 ---------------------------------------------------------
 
 ## News (AU) - 重大新闻(澳洲)
+
+### 2020.02.06
+
+[澳大利亚新确认一例新型冠状病毒感染病例 累计达15例](http://mil.news.sina.com.cn/2020-02-06/doc-iimxyqvz0825002.shtml) </br>
+
+[澳大利亚3名新型冠状病毒感染者出院 累计确诊总数14例](https://baijiahao.baidu.com/s?id=1657783775347125630&wfr=spider&for=pc) </br>
+
+[Chinese woman in Queensland confirmed as 15th Australian coronavirus case](https://www.sbs.com.au/news/chinese-woman-in-queensland-confirmed-as-15th-australian-coronavirus-case)
 
 ### 2020.02.05
 
