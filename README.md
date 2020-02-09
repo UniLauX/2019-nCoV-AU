@@ -7,8 +7,8 @@
 | ------------- |:-------------:| -----:|------------|--------------|
 |澳洲   |全国 | 15 |0| 3 |
 |新南威尔士州（NSW） |悉尼（Sydney） | 4 |0| 2 |
-|维多利亚州（VIC）   |墨尔本(Melbourne) | 5 | 0 |1|
-|昆士兰州（QLD）     | 布里斯班（Brisbane）|4 | 0 |0|
+|维多利亚州（VIC）   |墨尔本(Melbourne) | 4 | 0 |1|
+|昆士兰州（QLD）     | 布里斯班（Brisbane）|5 | 0 |0|
 |西澳大利亚州（WA）    |珀斯（Perth）| 0 | 0 |0|
 |南澳大利亚州（SA）    |阿德莱德（Adelaide）| 2 | 0 |0|
 |塔斯马尼亚州（TAS）   |霍巴特（Hobart） |0 | 0 |0|
@@ -17,7 +17,13 @@
 
 [澳大利亚卫生部确诊病例实时更新页面](https://www.health.gov.au/news/coronavirus-update-at-a-glance)</br>
 
-[NSW Latest Updates And Helps](https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx) 
+[VIC Latest Updates And Helps](https://www.dhhs.vic.gov.au/novelcoronavirus) </br>
+
+[NSW Latest Updates And Helps](https://www.health.nsw.gov.au/Infectious/diseases/Pages/coronavirus.aspx) </br>
+
+[QLD Latest Updates And Helps](http://conditions.health.qld.gov.au/HealthCondition/condition/14/217/838/novel-coronavirus) </br>
+
+[SA Latest Updates And Helps](https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/health+topics/health+topics+a+-+z/novel+coronavirus) 
 
 ---------------------------------------------------------
 
