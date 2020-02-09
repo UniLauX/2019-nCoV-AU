@@ -23,7 +23,13 @@
 
 ## News (AU) - 重大新闻(澳洲)
 
+### 2020.02.09
+
+[澳洲新冠患者病危进ICU！首例美国公民死亡，WHO急告：口罩防护资源，全球将用尽](https://mp.weixin.qq.com/s/T6TKX7qP1CN2ntr401qasg)
+
 ### 2020.02.06
+
+[澳洲各大学针对新型冠状病毒的信息通知【更新至2月6日】](https://mp.weixin.qq.com/s/Jo0dTC-Xf3mVEod_bL2nNQ) </br>
 
 [澳大利亚新确认一例新型冠状病毒感染病例 累计达15例](http://mil.news.sina.com.cn/2020-02-06/doc-iimxyqvz0825002.shtml) </br>
 
