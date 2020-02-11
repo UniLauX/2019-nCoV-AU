@@ -128,7 +128,11 @@ Patients' movement in SA From [7 News](https://7news.com.au/travel/coronavirus/c
 
 <img src="常见症状.png" width="60%">
 
----------------------------------------------
+## Fact - 求真
+
+[Novel Coronavirus (2019-nCoV) advice for the public: Myth busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters) </br>
+
+[较真 | 新冠肺炎是自限性疾病意味着什么？](http://view.inews.qq.com/a/20200211A0K3S100)
 
 ## 近期返澳的同学的建议及症状处置提示
 
