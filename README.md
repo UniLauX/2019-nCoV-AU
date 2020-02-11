@@ -82,9 +82,21 @@
 
 [澳洲成功培養出新型冠狀病毒](https://www.acd.com.au/todays-headlines/%e6%be%b3%e6%b4%b2%e6%88%90%e5%8a%9f%e5%9f%b9%e9%a4%8a%e5%87%ba%e6%96%b0%e5%9e%8b%e5%86%a0%e7%8b%80%e7%97%85%e6%af%92/)
 
+## China News - 中国新闻
+
+### 2020.02.11
+
+[身边的科学 九问新型冠状病毒](http://www.xinhuanet.com//2020-02/11/c_1125556815.htm)
+
+### 2020.02.10
+
+[潜伏期最长24天！钟南山团队最新论文：早期发热症状人群不到一半](http://finance.ifeng.com/c/7txEuOTo7nC) </br>
+
+[“假阴性”会导致漏诊吗？五问新冠肺炎“假阴性” ](http://www.sohu.com/a/371807905_391294?_trans_=000014_bdss_dkwhfy)
+
 ## World News - 世界新闻
 
-### 2020.02.01
+### 200.02.01
 
 [美国全面禁止从中国来的人入境](https://www.washingtonpost.com/world/coronavirus-china-live-updates/2020/01/31/eeac61b6-442b-11ea-b503-2b077c436617_story.html) </br>
 [(中文版)美国全面禁止从中国来的人入境](https://mp.weixin.qq.com/s/23DpBjCP1z5E_iGuMccYnA)</br>
